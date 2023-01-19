@@ -1,0 +1,42 @@
+ion-content.Pages{
+    /* --ion-background-color:purple; */
+    font-size: 15px;
+    --background:url("../images/RegisterP.jpeg") no-repeat center ;
+}
+ion-button.Rbtn{
+    --background: #FE8235;
+    --background-hover: #FE8235;
+    --background-activated: #FE8235;
+    --background-focused: #FE8235;
+    --font-family: 'Domine';
+    border-color: #FE8235; 
+    color:#573926;
+    /* width: 50%;
+    height: 50%; */
+    font-family:'Domine';
+    font-weight: 500;
+    font-size: 20px;
+    width: 163px;
+    --border-radius: 40px;
+    margin-top: 10%;      
+  }
+.title{
+    text-align: center;
+    color:#FE8235;
+    padding: 20px;
+    font-size: 36px;
+}
+ion-col{
+   --ion-col-text:center;
+}
+ion-content-item-input.title{
+    --ion-item-color:black;
+}
+.Logoo{
+    margin-left:50px;
+    margin-bottom:100px;
+    margin-top:11px;
+}
+ion-item.inputField{
+    --background:transparent;
+}

@@ -1,0 +1,14 @@
+ion-content{
+    --ion-background-color:#FEF3E7;
+}
+ion-tabs{
+    --ion-background-color:#FEF3E7;
+}
+.nick{
+    color:#573926;
+    font-weight: bold;
+    margin-top: 10%;
+    font-size:xx-large;
+    font-family:'Domine';
+    font-weight: 700;
+}

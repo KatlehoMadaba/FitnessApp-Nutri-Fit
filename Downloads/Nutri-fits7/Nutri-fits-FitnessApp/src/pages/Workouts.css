@@ -1,0 +1,40 @@
+ion-col > div.workouts--category{
+    padding: 2.1px;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 14px;
+    color: #573926;
+    font-family:'Domine';
+    font-weight: 700;
+}
+.workouts--title{
+    color: red;
+    padding-left: 5px;
+    font-size:xx-large;
+    font-family:'Domine';
+    font-weight: 700;
+}
+.workouts--text{
+    padding-left: 5px;
+    font-family: 'Domine';
+    font-style: italic;
+    font-weight: bold;
+    font-size: 15px;
+    line-height: 22px;
+    text-align: center;
+    letter-spacing: -0.408px;
+    color: #573926;
+}
+.workouts--category--name{
+    background-color: antiquewhite;
+    font-family:'Domine'
+}
+#workouts-category-color1{
+    background-color:#FEE7E7 ;
+}
+#workouts-category-color2{
+    background-color:#f09d5488 ;
+}
+#workouts-category-color3{
+    background-color:#F09E54 ;
+}
